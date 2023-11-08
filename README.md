@@ -1,10 +1,3 @@
-I'm pursuing B.Tech. in Engineering Physics from Delhi Technological University with a GPA of 7.84. I have hands-on experience in internships at Visual Alpha and Genesis Virtue, where I used ReactJS, PHP, WordPress, and Elementor.
-
-I have created two web applications, "IT'S YOUR STORY" and "Your Travel Guide", using ReactJS, Firebase, and Google Maps API. I'm proficient in languages like C/C++, Python, and JavaScript.
-
-I have excelled in academic subjects, got selected for the Amazon ML Summer School '22, and solved more than 500 problems on LeetCode. I'm also interested in cricket and emerging technologies.
-
-I'm looking forward to enhancing my skills and knowledge in software development.
 <h1 align="center">Hi 👋, I'm Irfan</h1>
 <h2 align="center">A Passionate Software Developer From India</h2>
 <!-- <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" height="400px"/> -->
@@ -38,4 +31,4 @@ I'm looking forward to enhancing my skills and knowledge in software development
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irfan106&show_icons=true&locale=en" alt="irfan106" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irfan106&" alt="irfan106" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irfan106" alt="irfan106" /></p>

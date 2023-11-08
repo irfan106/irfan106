@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irfan</h1>
-<h2 align="center">A Passionate Software Developer From India</h2>
+<h5 align="center">I am a B.Tech student with a passion for software development and a strong foundation in C/C++, Python, and web technologies. As a software development intern at Visual Alpha and Genesis Virtue, I've honed my skills in ReactJS, TypeScript, and PHP, contributing to meaningful projects. I also have a knack for problem-solving, as evidenced by my achievements on platforms like LeetCode and HackerRank. I'm excited about exploring new technologies, including Machine Learning. Let's connect and discuss how we can collaborate!</h5>
 <!-- <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" height="400px"/> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakszy&label=Profile%20views&color=0e75b6&style=flat" alt="lakszy" /> </p>

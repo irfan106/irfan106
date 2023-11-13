@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/irfan-0a4883194" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/irfan-0a4883194" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/22346256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22346256" height="30" width="40" /></a> -->
-<a href="https://www.codechef.com/users/irfii2504" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/irfii2504" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/irfii2504" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="https://www.codechef.com/users/irfii2504" height="30" width="40" /></a>
 <a href="https://leetcode.com/WorkHard123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/WorkHard123/" height="30" width="40" /></a>
 </p>
 

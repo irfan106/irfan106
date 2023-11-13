@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/irfan-0a4883194" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/irfan-0a4883194" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/22346256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22346256" height="30" width="40" /></a> -->
 <a href="https://www.codechef.com/users/irfii2504" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="https://www.codechef.com/users/irfii2504" height="30" width="40" /></a>
-<a href="https://leetcode.com/WorkHard123/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" alt="https://leetcode.com/WorkHard123/" height="30" width="40" /></a>
+<a href="https://leetcode.com/WorkHard123/" target="blank"><img align="center" src="https://iconape.com/wp-content/png_logo_vector/leetcode-logo-white-no-text.png" alt="https://leetcode.com/WorkHard123/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

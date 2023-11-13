@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfan106&label=Profile%20views&color=0e75b6&style=flat" alt="irfan106" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?irfan106=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?irfan106=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?irfan106=ryo-ma&row=2&column=3" alt="irfan106" /></a> </p>
 - 🔭 I’m currently working on Full Stack Development
 

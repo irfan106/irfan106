@@ -5,6 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfan106&label=Profile%20views&color=0e75b6&style=flat" alt="irfan106" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?irfan106=ryo-ma&row=2&column=3" alt="irfan106" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfan106" alt="irfan106" /></a> </p>
+
 - 🔭 I’m currently working on Full Stack Development
 
 - 👨‍💻 All of my projects are available at [**Portfolio**](https://portfolio-14d7f.web.app/)

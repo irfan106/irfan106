@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Full Stack Development
 
-- 👨‍💻 All of my projects are available at [**Portfolio**](https://portfolio-14d7f.web.app/)
+- 👨‍💻 All of my projects are available at [**Portfolio**]([https://portfolio-14d7f.web.app/](https://portfolio-irfan-2504.netlify.app/))
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, TypeScript, PHP, GraphQL, NodeJs, ExpressJs, Firebase, RapidAPI, WordPress**
 

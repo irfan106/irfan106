@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfan106&ryo-ma&theme=onedark" alt="irfan106" /></a> </p>
 
-- 🔭 I’m currently working on Full Stack Development
+- 🔭 I’m currently working on Full Stack Development.
 
 - 👨‍💻 All of my projects are available at [**Portfolio**](https://portfolio-irfan-2504.netlify.app/)
 

@@ -32,24 +32,6 @@
 
 ---
 
-## 📫 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/irfan-0a4883194" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/WorkHard123/" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="LeetCode" height="30" />
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/irfii2504" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/000000/external-codechef-a-competitive-programming-community-of-programmers-logo-shadow-tal-revivo.png" alt="CodeChef" height="30" />
-  </a>
-</p>
-
----
-
 ## 🛠️ Languages & Tools
 
 <p align="center">

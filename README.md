@@ -35,7 +35,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nextjs,redux,nodejs,express,firebase,php,laravel,graphql,mysql,mongodb,git,github,vscode,figma,bootstrap,tailwind,vercel,netlify,c,cpp,py" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,react-native,nextjs,redux,nodejs,express,firebase,php,laravel,graphql,mysql,mongodb,git,github,vscode,figma,bootstrap,tailwind,vercel,netlify,c,cpp,py" />
 </p>
 
 ---

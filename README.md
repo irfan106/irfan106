@@ -11,15 +11,6 @@
   </a>
 </p>
 
-## 🎮 Play Rock, Paper, Scissors with Me!
-
-Want to play a fun GitHub-powered game?
-
-🪨 📄 ✂️ Just make a commit to my [RPS Game Repo](https://github.com/irfan106/github-rps-game)  
-with a message like:
-
-
-
 ## 🚀 About Me
 
 - 👨‍💻 I’m currently working as a **Software Developer** at **Birla Pivot (Aditya Birla Group)**.  

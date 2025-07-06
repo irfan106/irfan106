@@ -11,6 +11,27 @@
   </a>
 </p>
 
+---
+
+## 🎮 Play Rock, Paper, Scissors with Me!
+
+Want to play a fun GitHub-powered game?
+
+🪨 📄 ✂️ Just make a commit to my **[RPS Game Repo](https://github.com/irfan106/github-rps-game)**  
+with a message like:
+
+
+✅ The GitHub Action will:
+- Pick a random move for me 🤖  
+- Compare your move  
+- Declare win/loss/draw 🏆  
+- Update the [🏅 Leaderboard](https://github.com/irfan106/github-rps-game#-leaderboard) automatically!
+
+> Try using `rps paper` or `rps scissors` too!  
+> (Even an empty commit works: `git commit --allow-empty -m "rps rock"`)
+
+---
+
 ## 🚀 About Me
 
 - 👨‍💻 I’m currently working as a **Software Developer** at **Birla Pivot (Aditya Birla Group)**.  

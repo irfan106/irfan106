@@ -28,7 +28,7 @@
 ## 🌐 Portfolio & Resume
 
 - 🔗 **Portfolio**: [portfolio-irfan-2504.netlify.app](https://portfolio-irfan-2504.netlify.app/)  
-- 📄 **Resume**: [Download Here](https://drive.google.com/file/d/1AyJnENtB4qa3hjUUCe4nZ1Nh3B0XRK_Y/view)
+- 📄 **Resume**: [Download Here]([https://drive.google.com/file/d/1AyJnENtB4qa3hjUUCe4nZ1Nh3B0XRK_Y/view](https://drive.google.com/file/d/1HcjrkGpMVkFDIupr_u3cg5ZVYLx0hAxU/view?usp=sharing))
 
 ---
 

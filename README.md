@@ -28,7 +28,7 @@
 ## 🌐 Portfolio & Resume
 
 - 🔗 **Portfolio**: [portfolio-irfan-2504.netlify.app](https://portfolio-irfan-2504.netlify.app/)  
-- 📄 **Resume**: [Download Here]([https://drive.google.com/file/d/1AyJnENtB4qa3hjUUCe4nZ1Nh3B0XRK_Y/view](https://drive.google.com/file/d/1HcjrkGpMVkFDIupr_u3cg5ZVYLx0hAxU/view?usp=sharing)
+- 📄 **Resume**: [Download Here](https://drive.google.com/file/d/1HcjrkGpMVkFDIupr_u3cg5ZVYLx0hAxU/view?usp=sharing)
 
 ---
 
@@ -38,18 +38,18 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,firebase,php,laravel,graphql,mysql,mongodb,git,github,vscode,figma,bootstrap,tailwind,vercel,netlify,c,cpp,py" />
 </p>
 
+<p align="center">
+  HTML • CSS • JavaScript • TypeScript • React • Next.js • Redux • Node.js • Express • Firebase • PHP • Laravel • GraphQL • MySQL • MongoDB • Git • GitHub • VS Code • Figma • Bootstrap • Tailwind CSS • Vercel • Netlify • C • C++ • Python
+</p>
+
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irfan106&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  
-  <br /><br />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfan106&theme=radical" alt="GitHub Streak" />
-
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfan106&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=irfan106&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---

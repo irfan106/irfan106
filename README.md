@@ -36,8 +36,8 @@
 
 ### 🧑‍💻 Languages
 
-<table align="left">
-  <tr>
+<table align="center">
+  <tr align="left>
     <td align="center"><img src="https://skillicons.dev/icons?i=cpp" height="40"/><br />C++</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" height="40"/><br />JavaScript</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" height="40"/><br />HTML</td>
@@ -50,7 +50,7 @@
 
 ### ⚙️ Frameworks & Libraries
 
-<table align="left">
+<table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" height="40"/><br />React.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" height="40"/><br />React Native</td>
@@ -67,7 +67,7 @@
 
 ### 🧰 Tools & Platforms
 
-<table align="left">
+<table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" height="40"/><br />Git</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" height="40"/><br />GitHub</td>

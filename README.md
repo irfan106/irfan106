@@ -36,7 +36,7 @@
 
 ### 🧑‍💻 Languages
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=cpp" height="40"/><br />C++</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" height="40"/><br />JavaScript</td>
@@ -45,13 +45,12 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=py" height="40"/><br />Python</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ts" height="40"/><br />TypeScript</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=php" height="40"/><br />PHP</td>
-    <td></td><td></td><td></td>
   </tr>
 </table>
 
 ### ⚙️ Frameworks & Libraries
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" height="40"/><br />React.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" height="40"/><br />React Native</td>
@@ -68,7 +67,7 @@
 
 ### 🧰 Tools & Platforms
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" height="40"/><br />Git</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" height="40"/><br />GitHub</td>

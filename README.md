@@ -39,8 +39,6 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=html" height="40"/><br />HTML</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" height="40"/><br />CSS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" height="40"/><br />JavaScript</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=ts" height="40"/><br />TypeScript</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" height="40"/><br />React</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" height="40"/><br />Next.js</td>
@@ -49,8 +47,6 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=redux" height="40"/><br />Redux</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br />Node.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=express" height="40"/><br />Express</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=firebase" height="40"/><br />Firebase</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=php" height="40"/><br />PHP</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=laravel" height="40"/><br />Laravel</td>
@@ -59,8 +55,6 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=graphql" height="40"/><br />GraphQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" height="40"/><br />MySQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="40"/><br />MongoDB</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" height="40"/><br />Git</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" height="40"/><br />GitHub</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" height="40"/><br />VS Code</td>
@@ -68,9 +62,7 @@
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma" height="40"/><br />Figma</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" height="40"/><br />Bootstrap</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="40"/><br />Tailwind CSS</td>
-  </tr>
-  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="40"/><br />Tailwind</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel" height="40"/><br />Vercel</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=netlify" height="40"/><br />Netlify</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=c" height="40"/><br />C</td>
@@ -78,7 +70,7 @@
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=cpp" height="40"/><br />C++</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=py" height="40"/><br />Python</td>
-    <td></td>
+    <td></td><td></td><td></td><td></td>
   </tr>
 </table>
 

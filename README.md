@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Irfan</h1>
-<h4 align="center">A Software Developer passionate about building user-friendly products, solving problems, and learning continuously.</h4>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=irfan106&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h1>Hi 👋, I'm Irfan</h1>
+      <h4>A Software Developer passionate about building user-friendly products, solving problems, and learning continuously.</h4>
+    </td>
+    <td align="right">
+      <img src="https://komarev.com/ghpvc/?username=irfan106&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -36,8 +41,8 @@
 
 ### 🧑‍💻 Languages
 
-<table align="center">
-  <tr align="left>
+<table>
+  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=cpp" height="40"/><br />C++</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" height="40"/><br />JavaScript</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" height="40"/><br />HTML</td>
@@ -50,7 +55,7 @@
 
 ### ⚙️ Frameworks & Libraries
 
-<table align="center">
+<table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" height="40"/><br />React.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" height="40"/><br />React Native</td>
@@ -67,7 +72,7 @@
 
 ### 🧰 Tools & Platforms
 
-<table align="center">
+<table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" height="40"/><br />Git</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" height="40"/><br />GitHub</td>

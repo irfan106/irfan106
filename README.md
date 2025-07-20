@@ -77,7 +77,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=git" height="40"/><br />Git</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" height="40"/><br />GitHub</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40"/><br />Bitbucket</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="80"/><br />Jira</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="80px"/><br />Jira</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40"/><br />Jenkins</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma" height="40"/><br />Figma</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" height="40"/><br />VS Code</td>
